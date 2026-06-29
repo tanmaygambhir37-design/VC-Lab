@@ -1,4 +1,4 @@
-# VC-Lab
+# VC Lab: From Startup Screening to Investment Decision
 Interactive venture capital decision engine: startup screening, valuation, cap tables, dilution and return analysis.
 ## Objective
 Build a hands-on venture capital simulation platform to learn how investors evaluate startups, structure deals, manage dilution, and generate returns.
